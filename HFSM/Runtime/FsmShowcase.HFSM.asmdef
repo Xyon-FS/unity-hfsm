@@ -1,0 +1,6 @@
+{
+  "name": "FsmShowcase.HFSM",
+  "rootNamespace": "FsmShowcase",
+  "references": [],
+  "noEngineReferences": true
+}

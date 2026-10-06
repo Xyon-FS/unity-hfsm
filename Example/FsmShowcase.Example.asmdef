@@ -1,0 +1,7 @@
+{
+  "name": "FsmShowcase.Example",
+  "rootNamespace": "FsmShowcase.Examples.Player",
+  "references": [
+    "FsmShowcase.HFSM"
+  ]
+}
